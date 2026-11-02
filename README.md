@@ -11,5 +11,3 @@ pip install rubpy
 ```bash
 python bug_profile.py
 ```
-## سازنده
-جهت ارائه پیشنهادات و یا مشکلات و تماس با سازنده این اسکریپت ، از[تلگرام](https://t.me/Framework_Python) با من در ارتباط باشید.
